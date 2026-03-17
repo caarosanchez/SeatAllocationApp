@@ -1,7 +1,5 @@
 # Seat Allocation App
 
-# Passenger Seat Assignment System
-
 ## Overview
 
 This project is a C# console application that processes passenger data from a JSON file and assigns seats based on defined business rules. The application reads input data, applies seat allocation logic, and outputs the updated data into a new JSON file.
